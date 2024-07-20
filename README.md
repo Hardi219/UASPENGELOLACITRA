@@ -59,21 +59,3 @@ plt.imshow(segmented_image)
 ![Aspose Words 557df43f-e579-4a8e-abbd-d9bec1c0f9ea 005](https://github.com/Muhjat7/k-means/assets/129918243/15116b5b-9b7e-4bee-995d-32d7341c5a86)![Aspose Words 557df43f-e579-4a8e-abbd-d9bec1c0f9ea 006](https://github.com/Muhjat7/k-means/assets/129918243/4ed03568-20c8-4289-bc3d-c005755a86f0)
 
 ![Aspose Words 557df43f-e579-4a8e-abbd-d9bec1c0f9ea 007](https://github.com/Muhjat7/k-means/assets/129918243/bb7e3919-2a3f-4fa5-9898-f041da3af26c)![Aspose Words 557df43f-e579-4a8e-abbd-d9bec1c0f9ea 005](https://github.com/Muhjat7/k-means/assets/129918243/d7db9766-6d07-40b1-9543-62590cb2a7a3)
-
-
-
-
-
-
-
-
-
-
-**Meta data**
-
-![Aspose Words 557df43f-e579-4a8e-abbd-d9bec1c0f9ea 008](https://github.com/Muhjat7/k-means/assets/129918243/121b3dfa-3308-4d73-a28c-b7228f8d7986) <br>
-<b>	Gambar awal</b> <br> <br>
-
-
-![Aspose Words 557df43f-e579-4a8e-abbd-d9bec1c0f9ea 009](https://github.com/Muhjat7/k-means/assets/129918243/a78b628e-f42a-4c0e-9e90-984c61472f28) <br>
-<b> setelah segmentasi gambar menggunakan metode k-means clustering </b>
